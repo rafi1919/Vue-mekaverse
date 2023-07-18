@@ -1,6 +1,5 @@
 # vue-mekaverse
-
-https://mekaverse-vue.vercel.app/
+(https://vue-mekaverse-mg89.vercel.app/)
 
 ## Project setup
 ```
